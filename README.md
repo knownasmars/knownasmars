@@ -3,12 +3,14 @@ I enjoy programming and i strive to contribute a little extra to IT industry.
 <br>My next point is getting strong senior skills to dive into the whole world of Java.  
 You can spectate my addiction to IT following my github here and seeing how i get better day by day.
 
-I developed several web-services that you can observe:
-> - web-service todo list 
-> - dreamjob web-site
-> - car accident web-service
-> - task tracker service
-> - etc...
+I developed several web-services that you can check out:
+> - [Job searching website](https://github.com/knownasmars/job4j_dreamjob)
+> - [Web-service todo-list](https://github.com/knownasmars/job4j_todo) 
+> - [Car accidents service](https://github.com/knownasmars/job4j_accidents)
+> - [Task tracker service](https://github.com/knownasmars/job4j_tracker)
+> - [Authentication service](https://github.com/knownasmars/jwt-server-spring)
+> - [Website data parser](https://github.com/knownasmars/job4j_grabber/tree/master/src/main/java/ru/job4j/grabber)
+> - [etc...](https://github.com/knownasmars?tab=repositories)
 
 <br><b>My Tech Stack:</b>
 >![Java](https://img.shields.io/badge/Java-11--17-blue)
