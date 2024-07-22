@@ -23,5 +23,5 @@ I developed several web-services that you can check out:
 > - I am 31 year old programmer from Moscow 💻
 > - I have 2 higher educations (engineering & finances)
 > - I learned Computer science in MATI (Russian State Technological University Moscow). 🏢
-> - My Java experience 1,5+ years ⌚
-> - Enjoy jiu-jitsu sport 
+> - My Java experience 3+ years ⌚
+> - Enjoy football and jiu-jitsu sport 
